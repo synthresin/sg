@@ -29,10 +29,13 @@
 
 #su-storyslide-list {
 	width:100%; height:500px;	
+	position: relative;;
 }
 
 #su-storyslide-list .su-storyslide {
 	width:100%; height:500px;
+	position: absolute; left:0; top:0;
+	display: none;
 }
 
 #su-storyslide-list .su-storyslide .main-object {
@@ -82,6 +85,11 @@
 	width:100%; height:80px; background:#f1f1f1;
 }
 
+.su-storyslide-selectors-wrapper .su-storyslide-selector {
+	cursor: pointer; float:left; margin-right:50px;
+}
+
+.su-storyslide-templates {display: none;}
 /* story-0 */
 .su-storyslide.story-0 {
 	background: url(../img/story-0-bg.png) repeat-x;
