@@ -1,0 +1,138 @@
+/* helper class */
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* helper class end */
+
+/* common css */
+
+#su-storygram-view {
+	width:100%;  height:580px;
+	min-width: 960px;
+	margin-top:110px;
+}
+
+.su-storyslide-list-wrapper {
+	width:100%; height:500px; 
+}
+
+#su-storyslide-list {
+	width:100%; height:500px;	
+}
+
+#su-storyslide-list .su-storyslide {
+	width:100%; height:500px;
+}
+
+#su-storyslide-list .su-storyslide .main-object {
+	width:960px; height:500px;margin:0 auto;
+	position:relative;
+}
+
+#su-storyslide-list .su-storyslide .story-element {
+	position: absolute; cursor: pointer;z-index: 1;
+}
+
+#su-storyslide-list .su-storyslide .story-element .my-story{
+	width:58px; height:28px; background: url(../img/my-story.png);
+	position: absolute; left:50%; margin-left:-29px; top:-20px;
+}
+
+
+#su-storyslide-list .su-storyslide .textbox{
+	width:200px; padding: 12px 14px; background: white; border: 5px solid #ff5810;
+	position: absolute;
+	left:50%; margin-left:-118px; top:43px;
+	cursor: default;
+	z-index: 10;
+	display: none;
+}
+
+#su-storyslide-list .su-storyslide .textbox h4 {
+	margin:0; padding:0; padding-bottom:7px; border-bottom: 1px solid #999999; font-size:13px; color:#333;
+}
+
+#su-storyslide-list .su-storyslide .textbox p {
+	margin:0; padding:0; padding-top:7px;  font-size:12px; color:#777; line-height: 150%;
+}
+
+#su-storyslide-list .su-storyslide .textbox .textbox-arrow {
+	width:17px; height:10px; background: url(../img/textbox-arrow.png) no-repeat;
+	position: absolute; left:50%; top:-13px; margin-left:-9px;
+}
+
+#su-storyslide-list .su-storyslide .story-element:hover .textbox{
+	/*display: block;*/
+}
+
+
+
+.su-storyslide-selectors-wrapper {
+	width:100%; height:80px; background:#f1f1f1;
+}
+
+/* story-0 */
+.su-storyslide.story-0 {
+	background: url(../img/story-0-bg.png) repeat-x;
+}
+
+.su-storyslide.story-0 .main-object {
+	background:  url(../img/story-0-main.png) 110px 0 no-repeat;
+}
+
+.su-storyslide.story-0 .main-object .story-element { background:red; }
+.su-storyslide.story-0 .main-object .story-element.num-0 {left:389px; top:166px; width:53px; height:54px; background: url(../img/story-0-num-0.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-1 {left:614px; top:245px; width:34px; height:35px; background: url(../img/story-0-num-1.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-2 {left:772px; top:357px; width:31px; height:32px; background: url(../img/story-0-num-2.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-3 {left:547px; top:221px; width:50px; height:49px; background: url(../img/story-0-num-3.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-4 {left:326px; top:338px; width:41px; height:43px; background: url(../img/story-0-num-4.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-5 {left:638px; top:78px; width:40px; height:39px; background: url(../img/story-0-num-5.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-6 {left:788px; top:181px; width:40px; height:39px; background: url(../img/story-0-num-6.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-7 {left:289px; top:53px; width:58px; height:53px; background: url(../img/story-0-num-7.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-8 {left:291px; top:198px; width:38px; height:54px; background: url(../img/story-0-num-8.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-9 {left:419px; top:48px; width:45px; height:48px; background: url(../img/story-0-num-9.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-10 {left:560px; top:374px; width:40px; height:37px; background: url(../img/story-0-num-10.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-11 {left:246px; top:179px; width:44px; height:47px; background: url(../img/story-0-num-11.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-12 {left:683px; top:209px; width:37px; height:60px; background: url(../img/story-0-num-12.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-13 {left:241px; top:67px; width:31px; height:32px; background: url(../img/story-0-num-13.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-14 {left:790px; top:107px; width:45px; height:48px; background: url(../img/story-0-num-14.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-15 {left:548px; top:48px; width:38px; height:61px; background: url(../img/story-0-num-15.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-16 {left:196px; top:316px; width:46px; height:47px; background: url(../img/story-0-num-16.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-17 {left:723px; top:39px; width:32px; height:32px; background: url(../img/story-0-num-17.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-18 {left:671px; top:355px; width:38px; height:55px; background: url(../img/story-0-num-18.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-19 {left:425px; top:289px; width:34px; height:35px; background: url(../img/story-0-num-19.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-20 {left:339px; top:260px; width:38px; height:52px; background: url(../img/story-0-num-20.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-21 {left:729px; top:264px; width:40px; height:38px; background: url(../img/story-0-num-21.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-22 {left:193px; top:262px; width:52px; height:54px; background: url(../img/story-0-num-22.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-23 {left:691px; top:118px; width:38px; height:54px; background: url(../img/story-0-num-23.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-24 {left:222px; top:226px; width:34px; height:33px; background: url(../img/story-0-num-24.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-25 {left:318px; top:116px; width:40px; height:38px; background: url(../img/story-0-num-25.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-26 {left:230px; top:366px; width:38px; height:60px; background: url(../img/story-0-num-26.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-27 {left:571px; top:315px; width:30px; height:28px; background: url(../img/story-0-num-27.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-28 {left:421px; top:387px; width:32px; height:32px; background: url(../img/story-0-num-28.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-29 {left:586px; top:24px; width:46px; height:46px; background: url(../img/story-0-num-29.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-30 {left:435px; top:229px; width:38px; height:56px; background: url(../img/story-0-num-30.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-31 {left:198px; top:34px; width:36px; height:35px; background: url(../img/story-0-num-31.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-32 {left:760px; top:47px; width:38px; height:60px; background: url(../img/story-0-num-32.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-33 {left:330px; top:225px; width:32px; height:34px; background: url(../img/story-0-num-33.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-34 {left:501px; top:188px; width:30px; height:30px; background: url(../img/story-0-num-34.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-35 {left:381px; top:130px; width:28px; height:29px; background: url(../img/story-0-num-35.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-36 {left:514px; top:101px; width:34px; height:34px; background: url(../img/story-0-num-36.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-37 {left:620px; top:133px; width:30px; height:28px; background: url(../img/story-0-num-37.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-38 {left:188px; top:77px; width:38px; height:62px; background: url(../img/story-0-num-38.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-39 {left:177px; top:196px; width:40px; height:38px; background: url(../img/story-0-num-39.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-40 {left:782px; top:249px; width:39px; height:58px; background: url(../img/story-0-num-40.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-41 {left:714px; top:316px; width:45px; height:46px; background: url(../img/story-0-num-41.png) no-repeat;}
+/* story-0 end*/
