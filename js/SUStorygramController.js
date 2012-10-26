@@ -11,7 +11,7 @@ SUStorygramController = (function($) {
 		init: function() {
 			// 각 스토리 받아서, 슬라이드 객체를 슬라이드 배열에 추가.
 			this.view.find('.su-storyslide').each(_.bind(function(idx, elem) {
-				var slide =  new SUStorySlide({ view: $(elem) }); // 각 슬라이드 객체 생성
+				var slide =  new SUStorySlide({ view: $(elem), param: idx }); // 각 슬라이드 객체 생성
 				slide.init(); // 각 슬라이드 초기화
 				this.story_slides.push(slide); // 슬라이드는 배열에 보관
 			}, this));
