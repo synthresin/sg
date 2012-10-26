@@ -9,13 +9,13 @@ SUStorySlide = (function($) {
 	
 	SUStorySlide.prototype = {
 		init: function() {
-			console.log(this.view.attr('class') + ' ready!');
+			//console.log(this.view.attr('class') + ' ready!');
 			this.parse_data();
 		},
 
 		activate: function() {
 			this.undraw();
-			console.log(this.view.attr('class') + ' activated!');
+			//console.log(this.view.attr('class') + ' activated!');
 			this.view.show();
 			this.draw();
 
@@ -23,7 +23,7 @@ SUStorySlide = (function($) {
 
 		deactivate: function() {
 			this.activated = false;
-			console.log(this.view.attr('class') + ' deactivated!');
+			//console.log(this.view.attr('class') + ' deactivated!');
 			this.view.hide();
 		},
 

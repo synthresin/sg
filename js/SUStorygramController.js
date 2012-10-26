@@ -38,7 +38,7 @@ SUStorygramController = (function($) {
 
 			this.current_slide = this.story_slides[idx]; // 현재 슬라이드 바꿈
 			this.current_slide.activate(); // 현재 슬라이드 액티베이트
-			console.log('this.current_slide is ' + this.current_slide.view.attr('class'));
+			//console.log('this.current_slide is ' + this.current_slide.view.attr('class'));
 		}
 			
 	}
