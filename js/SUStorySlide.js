@@ -3,7 +3,8 @@ SUStorySlide = (function($) {
 		this.view = params.view;
 		this.param = params.param;
 		this.main_object = params.view.find('.main-object');
-		this.objects = [];
+		this.pics = [];
+		this.texts = [];
 		
 	}
 	
@@ -35,15 +36,16 @@ SUStorySlide = (function($) {
 			});
 		},
 		request_success: function(data, textStatus, jqXHR) {
-			console.log(data.length);
+			
 			for(var i = 0; i < data.length; i++) {
 				var pic = $('<div></div>').addClass('story-element').addClass('num-' + i);
 				// DOM 에 붙이기
 				pic.appendTo(this.main_object);
+				this.pics.push(pic);
 			}
 
 			for(var i = 0; i < data.length; i++) {
-			//해당 글이 마이 오브젝트인지 검출. 아니면 패스
+			//해당 글이 나의 글인지 검출. 아니면 패스
 				if(data[i].my == true) {
 
 					// 태그에 해당하는 오브젝트 알기
@@ -75,9 +77,14 @@ SUStorySlide = (function($) {
 
 					// 태그 생성후, 같은 클래스 붙이고, 해당 css 적용시키기, 그후에 실제로 붙이기
 					textbox.addClass('num-' + i).css( {left: l + w/2 , top: t + h + 6}).appendTo(this.main_object);
+					this.texts.push(textbox);
 			}
 
+			// 동작 구동시키기
+		
 			
+
+			this.main_object.find('.story-element').show();
 		},
 
 		repeatFunc: function(elem) {

@@ -45,14 +45,14 @@
 
 #su-storyslide-list .su-storyslide .story-element {
 	position: absolute; cursor: pointer;z-index: 1;
-	/*display: none;*/
+	display: none;
 }
 
 #su-storyslide-list .su-storyslide .my-story{
 	width:58px; height:28px; background: url(../img/my-story.png);
 	position: absolute;  z-index:5;
 	margin-left:-29px;
-	/*display: none;*/
+	display: none;
 }	
 
 
@@ -62,7 +62,7 @@
 	margin-left:-118px; 
 	cursor: default;
 	z-index: 10;
-	/*display: none;*/
+	display: none;
 }
 
 #su-storyslide-list .su-storyslide .textbox h4 {
