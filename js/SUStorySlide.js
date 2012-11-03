@@ -29,7 +29,7 @@ SUStorySlide = (function($) {
 
 		parse_data: function() {
 			$.ajax({
-				url: 'http://sunshineunderground.kr/sample.json',
+				url: 'http://sunshineunderground.kr/sample' + this.param +'.json',
 				dataType: 'json',
 				type: 'GET',
 				context: this,
