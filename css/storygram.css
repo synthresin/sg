@@ -19,7 +19,7 @@
 /* common css */
 
 #su-storygram-view {
-	width:100%;  height:580px;
+	width:100%;  height:585px;
 	min-width: 960px;
 }
 
@@ -85,11 +85,41 @@
 
 
 .su-storyslide-selectors-wrapper {
-	width:100%; height:80px; background:#f1f1f1;
+	width:100%; height:85px; background:#f1f1f1;
 }
 
+.su-storyslide-selectors-wrapper .su-storyslide-selectors {
+	width:334px; height:85px;
+	margin:0 auto;
+}
 .su-storyslide-selectors-wrapper .su-storyslide-selector {
-	cursor: pointer; float:left; margin-right:50px;
+	cursor: pointer; float:left;
+	height:85px;
+}
+
+.su-storyslide-selectors-wrapper .su-storyslide-selector.story-0 {
+	width:73px;
+	background: url(../img/selector-0.png) no-repeat;
+}
+
+.su-storyslide-selectors-wrapper .su-storyslide-selector.story-1 {
+	width:59px;
+	background: url(../img/selector-1.png) no-repeat;
+}
+
+.su-storyslide-selectors-wrapper .su-storyslide-selector.story-2 {
+	width:72px;
+	background: url(../img/selector-2.png) no-repeat;
+}
+
+.su-storyslide-selectors-wrapper .su-storyslide-selector.story-3 {
+	width:70px;
+	background: url(../img/selector-3.png) no-repeat;
+}
+
+.su-storyslide-selectors-wrapper .su-storyslide-selector.story-4 {
+	width:60px;
+	background: url(../img/selector-4.png) no-repeat;
 }
 
 .su-storyslide-templates {display: none;}
