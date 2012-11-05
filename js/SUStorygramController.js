@@ -30,7 +30,6 @@ SUStorygramController = (function($) {
 
 			// 버튼과 슬라이드가 동일하면, 아무것도 하지 않음
 			if(this.current_slide === this.story_slides[idx]) {
-				alert('똑같자나!');	
 				return;
 			}
 
