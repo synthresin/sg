@@ -99,52 +99,36 @@
 }
 
 .su-storyslide.story-0 .main-object {
-	background:  url(../img/story-0-main.png) 110px 0 no-repeat;
+	background:  url(../img/story-0-main.png) 0 0 no-repeat;
 }
 
 .su-storyslide.story-0 .main-object .story-element { background:red; }
-.su-storyslide.story-0 .main-object .story-element.num-0 {left:389px; top:166px; width:53px; height:54px; background: url(../img/story-0-num-0.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-1 {left:614px; top:245px; width:34px; height:35px; background: url(../img/story-0-num-1.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-2 {left:772px; top:357px; width:31px; height:32px; background: url(../img/story-0-num-2.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-3 {left:547px; top:221px; width:50px; height:49px; background: url(../img/story-0-num-3.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-4 {left:326px; top:338px; width:41px; height:43px; background: url(../img/story-0-num-4.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-5 {left:638px; top:78px; width:40px; height:39px; background: url(../img/story-0-num-5.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-6 {left:788px; top:181px; width:40px; height:39px; background: url(../img/story-0-num-6.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-7 {left:289px; top:53px; width:58px; height:53px; background: url(../img/story-0-num-7.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-8 {left:291px; top:198px; width:38px; height:54px; background: url(../img/story-0-num-8.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-9 {left:419px; top:48px; width:45px; height:48px; background: url(../img/story-0-num-9.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-10 {left:560px; top:374px; width:40px; height:37px; background: url(../img/story-0-num-10.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-11 {left:246px; top:179px; width:44px; height:47px; background: url(../img/story-0-num-11.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-12 {left:683px; top:209px; width:37px; height:60px; background: url(../img/story-0-num-12.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-13 {left:241px; top:67px; width:31px; height:32px; background: url(../img/story-0-num-13.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-14 {left:790px; top:107px; width:45px; height:48px; background: url(../img/story-0-num-14.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-15 {left:548px; top:48px; width:38px; height:61px; background: url(../img/story-0-num-15.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-16 {left:196px; top:316px; width:46px; height:47px; background: url(../img/story-0-num-16.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-17 {left:723px; top:39px; width:32px; height:32px; background: url(../img/story-0-num-17.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-18 {left:671px; top:355px; width:38px; height:55px; background: url(../img/story-0-num-18.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-19 {left:425px; top:289px; width:34px; height:35px; background: url(../img/story-0-num-19.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-20 {left:339px; top:260px; width:38px; height:52px; background: url(../img/story-0-num-20.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-21 {left:729px; top:264px; width:40px; height:38px; background: url(../img/story-0-num-21.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-22 {left:193px; top:262px; width:52px; height:54px; background: url(../img/story-0-num-22.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-23 {left:691px; top:118px; width:38px; height:54px; background: url(../img/story-0-num-23.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-24 {left:222px; top:226px; width:34px; height:33px; background: url(../img/story-0-num-24.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-25 {left:318px; top:116px; width:40px; height:38px; background: url(../img/story-0-num-25.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-26 {left:230px; top:366px; width:38px; height:60px; background: url(../img/story-0-num-26.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-27 {left:571px; top:315px; width:30px; height:28px; background: url(../img/story-0-num-27.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-28 {left:421px; top:387px; width:32px; height:32px; background: url(../img/story-0-num-28.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-29 {left:586px; top:24px; width:46px; height:46px; background: url(../img/story-0-num-29.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-30 {left:435px; top:229px; width:38px; height:56px; background: url(../img/story-0-num-30.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-31 {left:198px; top:34px; width:36px; height:35px; background: url(../img/story-0-num-31.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-32 {left:760px; top:47px; width:38px; height:60px; background: url(../img/story-0-num-32.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-33 {left:330px; top:225px; width:32px; height:34px; background: url(../img/story-0-num-33.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-34 {left:501px; top:188px; width:30px; height:30px; background: url(../img/story-0-num-34.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-35 {left:381px; top:130px; width:28px; height:29px; background: url(../img/story-0-num-35.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-36 {left:514px; top:101px; width:34px; height:34px; background: url(../img/story-0-num-36.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-37 {left:620px; top:133px; width:30px; height:28px; background: url(../img/story-0-num-37.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-38 {left:188px; top:77px; width:38px; height:62px; background: url(../img/story-0-num-38.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-39 {left:177px; top:196px; width:40px; height:38px; background: url(../img/story-0-num-39.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-40 {left:782px; top:249px; width:39px; height:58px; background: url(../img/story-0-num-40.png) no-repeat;}
-.su-storyslide.story-0 .main-object .story-element.num-41 {left:714px; top:316px; width:45px; height:46px; background: url(../img/story-0-num-41.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-0 {left:147px; top:18px; width:124px; height:104px; background: url(../img/story-0-num-0.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-1 {left:657px; top:311px; width:60px; height:58px; background: url(../img/story-0-num-1.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-2 {left:335px; top:391px; width:70px; height:84px; background: url(../img/story-0-num-2.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-3 {left:505px; top:61px; width:58px; height:86px; background: url(../img/story-0-num-3.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-4 {left:630px; top:163px; width:72px; height:103px; background: url(../img/story-0-num-4.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-5 {left:718px; top:232px; width:93px; height:62px; background: url(../img/story-0-num-5.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-6 {left:300px; top:127px; width:61px; height:102px; background: url(../img/story-0-num-6.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-7 {left:218px; top:408px; width:77px; height:79px; background: url(../img/story-0-num-7.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-8 {left:703px; top:35px; width:84px; height:56px; background: url(../img/story-0-num-8.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-9 {left:580px; top:405px; width:75px; height:88px; background: url(../img/story-0-num-9.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-10 {left:138px; top:333px; width:69px; height:43px; background: url(../img/story-0-num-10.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-11 {left:490px; top:179px; width:121px; height:71px; background: url(../img/story-0-num-11.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-12 {left:726px; top:118px; width:98px; height:75px; background: url(../img/story-0-num-12.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-13 {left:221px; top:264px; width:147px; height:112px; background: url(../img/story-0-num-13.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-14 {left:561px; top:276px; width:70px; height:93px; background: url(../img/story-0-num-14.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-15 {left:421px; top:333px; width:98px; height:68px; background: url(../img/story-0-num-15.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-16 {left:459px; top:9px; width:55px; height:41px; background: url(../img/story-0-num-16.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-17 {left:691px; top:397px; width:102px; height:84px; background: url(../img/story-0-num-17.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-18 {left:353px; top:15px; width:94px; height:76px; background: url(../img/story-0-num-18.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-19 {left:503px; top:423px; width:61px; height:47px; background: url(../img/story-0-num-19.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-20 {left:744px; top:319px; width:77px; height:58px; background: url(../img/story-0-num-20.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-21 {left:139px; top:194px; width:53px; height:70px; background: url(../img/story-0-num-21.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-22 {left:206px; top:144px; width:72px; height:61px; background: url(../img/story-0-num-22.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-23 {left:580px; top:43px; width:83px; height:71px; background: url(../img/story-0-num-23.png) no-repeat;}
+.su-storyslide.story-0 .main-object .story-element.num-24 {left:379px; top:128px; width:99px; height:173px; background: url(../img/story-0-num-24.png) no-repeat;}
+
 /* story-0 end*/
 
 /* story-1 */
@@ -191,26 +175,26 @@
 }
 
 .su-storyslide.story-2 .main-object .story-element { background:red; }
-.su-storyslide.story-2 .main-object .story-element.num-0 {left:269px; top:81px; width:85px; height:53px; background: url(../img/story-2-num-0.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-1 {left:335px; top:216px; width:54px; height:75px; background: url(../img/story-2-num-1.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-2 {left:294px; top:306px; width:61px; height:78px; background: url(../img/story-2-num-2.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-3 {left:137px; top:396px; width:95px; height:76px; background: url(../img/story-2-num-3.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-4 {left:207px; top:236px; width:43px; height:37px; background: url(../img/story-2-num-4.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-5 {left:129px; top:98px; width:71px; height:53px; background: url(../img/story-2-num-5.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-6 {left:283px; top:14px; width:42px; height:36px; background: url(../img/story-2-num-6.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-7 {left:421px; top:227px; width:64px; height:65px; background: url(../img/story-2-num-7.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-8 {left:575px; top:179px; width:40px; height:36px; background: url(../img/story-2-num-8.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-9 {left:411px; top:363px; width:81px; height:74px; background: url(../img/story-2-num-9.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-10 {left:465px; top:435px; width:47px; height:37px; background: url(../img/story-2-num-10.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-11 {left:628px; top:201px; width:33px; height:52px; background: url(../img/story-2-num-11.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-12 {left:666px; top:122px; width:33px; height:52px; background: url(../img/story-2-num-12.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-13 {left:775px; top:154px; width:33px; height:52px; background: url(../img/story-2-num-13.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-14 {left:732px; top:108px; width:33px; height:52px; background: url(../img/story-2-num-14.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-15 {left:686px; top:185px; width:33px; height:52px; background: url(../img/story-2-num-15.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-16 {left:744px; top:210px; width:33px; height:52px; background: url(../img/story-2-num-16.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-17 {left:660px; top:264px; width:33px; height:52px; background: url(../img/story-2-num-17.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-18 {left:669px; top:341px; width:28px; height:159px; background: url(../img/story-2-num-18.png) no-repeat;}
-.su-storyslide.story-2 .main-object .story-element.num-19 {left:696px; top:283px; width:124px; height:147px; background: url(../img/story-2-num-19.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-0 {left:389px; top:162px; width:92px; height:33px; background: url(../img/story-2-num-0.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-1 {left:603px; top:245px; width:90px; height:99px; background: url(../img/story-2-num-1.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-2 {left:375px; top:245px; width:84px; height:33px; background: url(../img/story-2-num-2.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-3 {left:734px; top:146px; width:47px; height:49px; background: url(../img/story-2-num-3.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-4 {left:607px; top:182px; width:109px; height:46px; background: url(../img/story-2-num-4.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-5 {left:399px; top:330px; width:92px; height:152px; background: url(../img/story-2-num-5.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-6 {left:344px; top:83px; width:26px; height:25px; background: url(../img/story-2-num-6.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-7 {left:232px; top:291px; width:155px; height:91px; background: url(../img/story-2-num-7.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-8 {left:701px; top:384px; width:34px; height:23px; background: url(../img/story-2-num-8.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-9 {left:748px; top:391px; width:39px; height:36px; background: url(../img/story-2-num-9.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-10 {left:787px; top:355px; width:34px; height:32px; background: url(../img/story-2-num-10.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-11 {left:281px; top:383px; width:85px; height:57px; background: url(../img/story-2-num-11.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-12 {left:201px; top:200px; width:61px; height:29px; background: url(../img/story-2-num-12.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-13 {left:226px; top:249px; width:23px; height:34px; background: url(../img/story-2-num-13.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-14 {left:164px; top:73px; width:50px; height:53px; background: url(../img/story-2-num-14.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-15 {left:727px; top:239px; width:33px; height:39px; background: url(../img/story-2-num-15.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-16 {left:273px; top:198px; width:157px; height:58px; background: url(../img/story-2-num-16.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-17 {left:586px; top:58px; width:91px; height:98px; background: url(../img/story-2-num-17.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-18 {left:384px; top:83px; width:113px; height:53px; background: url(../img/story-2-num-18.png) no-repeat;}
+.su-storyslide.story-2 .main-object .story-element.num-19 {left:487px; top:158px; width:84px; height:162px; background: url(../img/story-2-num-19.png) no-repeat;}
 
 /* story-2 end*/
 
@@ -246,3 +230,57 @@
 .su-storyslide.story-3 .main-object .story-element.num-19 {left:696px; top:283px; width:124px; height:147px; background: url(../img/story-3-num-19.png) no-repeat;}
 
 /* story-3 end*/
+
+/* story-4 */
+.su-storyslide.story-4 {
+	background: url(../img/story-4-bg.png) repeat-x;
+}
+
+.su-storyslide.story-4 .main-object {
+	background:  url(../img/story-4-main.png) 110px 0 no-repeat;
+}
+
+.su-storyslide.story-4 .main-object .story-element { background:red; }
+.su-storyslide.story-4 .main-object .story-element.num-0 {left:389px; top:166px; width:53px; height:54px; background: url(../img/story-4-num-0.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-1 {left:614px; top:245px; width:34px; height:35px; background: url(../img/story-4-num-1.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-2 {left:772px; top:357px; width:31px; height:32px; background: url(../img/story-4-num-2.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-3 {left:547px; top:221px; width:50px; height:49px; background: url(../img/story-4-num-3.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-4 {left:326px; top:338px; width:41px; height:43px; background: url(../img/story-4-num-4.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-5 {left:638px; top:78px; width:40px; height:39px; background: url(../img/story-4-num-5.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-6 {left:788px; top:181px; width:40px; height:39px; background: url(../img/story-4-num-6.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-7 {left:289px; top:53px; width:58px; height:53px; background: url(../img/story-4-num-7.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-8 {left:291px; top:198px; width:38px; height:54px; background: url(../img/story-4-num-8.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-9 {left:419px; top:48px; width:45px; height:48px; background: url(../img/story-4-num-9.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-10 {left:560px; top:374px; width:40px; height:37px; background: url(../img/story-4-num-10.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-11 {left:246px; top:179px; width:44px; height:47px; background: url(../img/story-4-num-11.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-12 {left:683px; top:209px; width:37px; height:60px; background: url(../img/story-4-num-12.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-13 {left:241px; top:67px; width:31px; height:32px; background: url(../img/story-4-num-13.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-14 {left:790px; top:107px; width:45px; height:48px; background: url(../img/story-4-num-14.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-15 {left:548px; top:48px; width:38px; height:61px; background: url(../img/story-4-num-15.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-16 {left:196px; top:316px; width:46px; height:47px; background: url(../img/story-4-num-16.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-17 {left:723px; top:39px; width:32px; height:32px; background: url(../img/story-4-num-17.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-18 {left:671px; top:355px; width:38px; height:55px; background: url(../img/story-4-num-18.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-19 {left:425px; top:289px; width:34px; height:35px; background: url(../img/story-4-num-19.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-20 {left:339px; top:260px; width:38px; height:52px; background: url(../img/story-4-num-20.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-21 {left:729px; top:264px; width:40px; height:38px; background: url(../img/story-4-num-21.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-22 {left:193px; top:262px; width:52px; height:54px; background: url(../img/story-4-num-22.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-23 {left:691px; top:118px; width:38px; height:54px; background: url(../img/story-4-num-23.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-24 {left:222px; top:226px; width:34px; height:33px; background: url(../img/story-4-num-24.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-25 {left:318px; top:116px; width:40px; height:38px; background: url(../img/story-4-num-25.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-26 {left:230px; top:366px; width:38px; height:60px; background: url(../img/story-4-num-26.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-27 {left:571px; top:315px; width:30px; height:28px; background: url(../img/story-4-num-27.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-28 {left:421px; top:387px; width:32px; height:32px; background: url(../img/story-4-num-28.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-29 {left:586px; top:24px; width:46px; height:46px; background: url(../img/story-4-num-29.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-30 {left:435px; top:229px; width:38px; height:56px; background: url(../img/story-4-num-30.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-31 {left:198px; top:34px; width:36px; height:35px; background: url(../img/story-4-num-31.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-32 {left:760px; top:47px; width:38px; height:60px; background: url(../img/story-4-num-32.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-33 {left:330px; top:225px; width:32px; height:34px; background: url(../img/story-4-num-33.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-34 {left:501px; top:188px; width:30px; height:30px; background: url(../img/story-4-num-34.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-35 {left:381px; top:130px; width:28px; height:29px; background: url(../img/story-4-num-35.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-36 {left:514px; top:101px; width:34px; height:34px; background: url(../img/story-4-num-36.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-37 {left:620px; top:133px; width:30px; height:28px; background: url(../img/story-4-num-37.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-38 {left:188px; top:77px; width:38px; height:62px; background: url(../img/story-4-num-38.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-39 {left:177px; top:196px; width:40px; height:38px; background: url(../img/story-4-num-39.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-40 {left:782px; top:249px; width:39px; height:58px; background: url(../img/story-4-num-40.png) no-repeat;}
+.su-storyslide.story-4 .main-object .story-element.num-41 {left:714px; top:316px; width:45px; height:46px; background: url(../img/story-4-num-41.png) no-repeat;}
+/* story-4 end*/
